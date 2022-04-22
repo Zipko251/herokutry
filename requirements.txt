@@ -9,7 +9,7 @@ MarkupSafe==1.1.1
 pdfminer.six==20181108
 pdfminer3==2018.12.3.0
 pycryptodome==3.9.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyTelegramBotAPI==3.6.6
 requests==2.22.0
 six==1.12.0
